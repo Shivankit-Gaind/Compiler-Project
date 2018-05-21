@@ -4,8 +4,8 @@ The project was built as a part of partial fulfillment of the course Compiler Co
 
 This project has been been implemented in a pipeline manner with stages consisting of:
 
-Lexer
-Parser
-AST generation
-Typechecking & Semantic Analysis
-Code Generation (NASM 64-bit compatible assembly).
+1. Lexer
+2. Parser
+3. AST generation
+4. Typechecking & Semantic Analysis
+5. Code Generation (NASM 64-bit compatible assembly).
